@@ -21,4 +21,4 @@ python colornames.py
 
 ## Purpose
 
-This is an experiment towards the goal of filling out the gaps in the colornames project with AI. In the future, each word might be converted into a vector, (eg. 'dark' is a vector with moderate magnitude in the negative of r, g, and b), and the vectors might be used to produce 
+This is an experiment towards the goal of filling out the gaps in the colornames project with AI. In the future, each word might be converted into a vector, (eg. 'dark' is a vector with moderate magnitude in the negative of r, g, and b), and the vectors might be used to produce words given a hex code. I will need to learn some new statistics in order to achieve this, because the input data is biased and incomplete.
